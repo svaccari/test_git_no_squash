@@ -1,13 +1,17 @@
 riga 1
-riga 2 aaa
-riga 3 bbb
-riga 4 ccc
+feature 2 riga 2 FFF
+feature 2 riga 3 GGG
+feature 2 riga 4 HHH
 riga 5
+
+feature 2 added this line
 
 riga 7
 riga 8
 riga 9
 
 add
+feature 2 replaced this line
 add
-add
+
+feature 2 added this line
