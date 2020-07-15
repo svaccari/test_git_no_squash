@@ -8,6 +8,10 @@ riga 5
 
 feature 2 replaced this line
 bbbbbb
-cccccc
+feature 2 second commit
 
 feature 2 added this line
+
+feature 2 second commit
+feature 2 second commit
+feature 2 second commit

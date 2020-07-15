@@ -1,17 +1,25 @@
+feature 2 second commit
+feature 2 second commit
+feature 2 second commit
+
 riga 1
 feature 2 riga 2 FFF
 feature 2 riga 3 GGG
 feature 2 riga 4 HHH
-riga 5
+feature 2 second commit
 
+feature 2 second commit new line
 feature 2 added this line
 
 riga 7
-riga 8
-riga 9
+feature 2 second commit
+feature 2 second commit
 
 add
-feature 2 replaced this line
-add
+feature 2 second commit over its previous line
+feature 2 second commit
 
 feature 2 added this line
+
+
+feature 2 second commit new line
